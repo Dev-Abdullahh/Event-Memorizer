@@ -1,2 +1,2 @@
 # Event-Memorizer
-This is a simple responsice calendar made using HTML and CSS 
+This is a simple responsive calendar made using HTML and CSS 
